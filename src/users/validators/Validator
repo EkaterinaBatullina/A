@@ -4,6 +4,6 @@ public interface Validator {
 
     void validateName(String email) throws IllegalArgumentException;
 
-    void validatePassword(String email) throws IllegalArgumentException;
+
 
 }
